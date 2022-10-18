@@ -8,3 +8,5 @@ Descrition:
 """
 def nmd():
     pass
+def cmd():
+    pass
